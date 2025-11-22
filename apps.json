@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "name": "Twitch Stats",
+      "author": "MacroPad",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/yourusername/macropad-apps/main/widgets/twitch-stats.json",
+      "size": 2048
+    },
+    {
+      "name": "Minecraft Monitor", 
+      "author": "MacroPad",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/yourusername/macropad-apps/main/widgets/minecraft-status.json",
+      "size": 1536
+    }
+  ]
+}
