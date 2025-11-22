@@ -1,0 +1,9 @@
+{
+  "name": "Twitch Stats",
+  "type": "widget",
+  "code": "void updateTwitchStats() { /* API calls */ }",
+  "config": {
+    "apiKey": "YOUR_KEY",
+    "channel": "streamername"
+  }
+}
